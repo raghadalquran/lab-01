@@ -1,0 +1,105 @@
+@media screen and (min-width:480px) and (max-width:767px){
+    .div-a{
+        border: solid gray;
+        background-color:  #ffe6f2;
+        }
+        .div-b{
+        border-left: solid gray;
+        border-right: solid gray;
+        background-color:  #ffffe6;
+        }
+        .div-c{
+        border-left: solid gray;
+        border-right: solid gray;
+        border-top: solid gray;
+        background-color:  #e6e6ff;
+        }
+        .div-d{
+        border: solid gray;
+        background-color:  #eeccff;
+        }
+        .sec-e{
+        border-left: solid gray;
+        border-right: solid gray;
+        background-color:  #cce6ff;
+        }
+        .sec-f{
+        border-right: solid gray;
+        background-color:  #ecffb3;
+        }
+        .sec-g{
+        border-left: solid gray;
+        border-right: solid gray;
+        border-top: solid gray;
+        background-color:  #ffc2b3;
+        }
+        
+        .sec-h{
+        border-right: solid gray;
+        border-top: solid gray;
+        background-color: #ff8080;
+        }
+.div-i{
+        border: solid gray;
+        background-color:   #f2ffcc;
+        }
+}
+/* @media screen and (min-width:768px) and (max-width:960px){ */
+    @media (min-width:768px){
+ 
+            .div-a{
+                border: solid gray;
+                background-color:  #ffe6f2;
+        
+                }
+            .div-b{
+                    border-left: solid gray;
+                    border-right: solid gray;
+                    border-bottom: solid gray;
+                    background-color:  #ffffe6;
+        
+                    }
+                    .div-c{
+                    border-right: solid gray;
+                    border-bottom: solid gray;
+                    background-color:  #e6e6ff;
+        
+                }
+            .div-d{   
+                border-right: solid gray;
+                background-color:  #eeccff;
+        
+            }
+            .sec-e{
+                border-right: solid gray;
+                background-color:  #cce6ff;
+        
+                }
+                .sec-f{
+                border-right: solid gray;
+                background-color:  #ecffb3;
+                
+                }
+                .sec-g{
+                border-right: solid gray;
+                border-top: solid gray;
+                background-color:  #ffc2b3;
+        
+                }
+                
+                .sec-h{
+                border-right: solid gray;
+                border-top: solid gray;
+                background-color: #ff8080;
+        
+                }
+                .div-i{
+               
+                border-top: solid gray;
+                border-bottom: solid gray;
+                border-right: solid gray;
+                background-color:  #f2ffcc;
+                }
+        
+        }
+        
